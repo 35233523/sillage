@@ -1,0 +1,41 @@
+{
+ "posts": [
+  {
+   "id": 1,
+   "author": "ada",
+   "title": "Welcome",
+   "body": "hello world",
+   "score": 1,
+   "created": "2024-01-01T00:00:00.000Z",
+   "replies": []
+  },
+  {
+   "id": 2,
+   "author": "linus",
+   "title": "Second",
+   "body": "un autre message",
+   "score": 0,
+   "created": "2024-01-02T00:00:00.000Z",
+   "replies": []
+  },
+  {
+   "id": 3,
+   "author": "grace",
+   "title": "Troisième",
+   "body": "dernier billet",
+   "score": 0,
+   "created": "2024-01-03T00:00:00.000Z",
+   "replies": []
+  }
+ ],
+ "learn": [
+  {
+   "id": 1,
+   "mot": "春天"
+  },
+  {
+   "id": 2,
+   "mot": "柳树"
+  }
+ ]
+}
